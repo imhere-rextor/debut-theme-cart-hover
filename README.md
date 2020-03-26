@@ -24,3 +24,8 @@ for debut theme you can skip this step
 in the desired section then save
 3. add the css code for the additions below then save
 4. edit the theme.js file and add this code at the bottom then save and the installation is complete
+
+> If you have any questions for this plugin, contact us at dhias@bolehdicoba.com
+
+>Best regards
+>Diaz
