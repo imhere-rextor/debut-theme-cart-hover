@@ -15,7 +15,7 @@ To install this plugin must not enable ajax notifications for debut theme users,
 
 >To start the initial installation, you are required to disable the ajax cart notification feature for the debut theme. other than that you can adjust to your theme.
 
-1. if you have finished deactivating the feature, please install the ajaxrify-cart application in the shopify app store shops.shopify.com/ajaxrify-cart and install the application in your theme and follow the directions from ajaxrify for further installation
+1. if you have finished deactivating the feature, please install the ajaxrify-cart application in the shopify app store apps.shopify.com/ajaxrify-cart and install the application in your theme and follow the directions from ajaxrify for further installation
 2. create a new snippet file with the name cart-hover and enter the code below. after entering the code, edit the header.liquid file and add the code
 {% include 'cart-hover'%}
 in the desired section then save
