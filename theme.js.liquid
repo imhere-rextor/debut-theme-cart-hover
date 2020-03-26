@@ -1,5 +1,6 @@
 // this function for remove item in cart without directing to cart page
+// change the example link to your store link
 function remove_dicart(key){
- 	$('#cart_tes').load('https://thelifeof.id/cart/change?line=' + key + '&amp;quantity=0');
+ 	$('#cart_tes').load('https://example.myshopify.com/cart/change?line=' + key + '&amp;quantity=0');
   	window.location.reload();
 }
