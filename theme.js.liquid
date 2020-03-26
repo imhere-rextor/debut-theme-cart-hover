@@ -1,0 +1,5 @@
+// this function for remove item in cart without directing to cart page
+function remove_dicart(key){
+ 	$('#cart_tes').load('https://thelifeof.id/cart/change?line=' + key + '&amp;quantity=0');
+  	window.location.reload();
+}
