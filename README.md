@@ -18,7 +18,7 @@ besides the debut themes, add this cdn to your theme.liquid you can search in
 https://code.jquery.com/
 for debut theme you can skip this step
 
-1. if you have finished deactivating the feature, please install the ajaxrify-cart application in the shopify app store apps.shopify.com/ajaxrify-cart and install the application in your theme and follow the directions from ajaxrify for further installation
+1. if you have finished deactivating the feature, please install the ajaxrify-cart application in the shopify app store https://apps.shopify.com/ajaxrify-cart and install the application in your theme and follow the directions from ajaxrify for further installation
 2. create a new snippet file with the name cart-hover and enter the code below. after entering the code, edit the header.liquid file and add the code
 {% include 'cart-hover'%}
 in the desired section then save
